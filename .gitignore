@@ -25,7 +25,8 @@ __pycache__
 
 # Default build directory
 /build*
-
+scenes
+*.png
 build/
 uHbuild/
 
