@@ -27,8 +27,10 @@ __pycache__
 /build*
 scenes
 *.png
+*.jpg
 build/
 uHbuild/
+*[B/b]uild/
 
 # Auto-generated documentation files
 /docs/generated/plugins_*.rst
